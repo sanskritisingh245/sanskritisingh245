@@ -8,7 +8,6 @@ Full-stack developer building across web, mobile, and AI tooling. I like TypeScr
 
 ### Languages
 - **TypeScript / JavaScript** — daily driver
-- **Rust**
 - **SQL** — Postgres
 
 ### Frontend
