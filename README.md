@@ -4,7 +4,7 @@ Full-stack developer building across web, mobile, and AI tooling. I like TypeScr
 
 ### What I work with
 
-**Languages** — TypeScript / JavaScript (daily), SQL (Postgres)
+**Languages** — TypeScript / JavaScript , SQL (Postgres)
 
 **Frontend** — React 19, Next.js, Vite · React Native + Expo (expo-router, EAS) · Tailwind, shadcn/ui, Radix · Zustand, React Hook Form, Zod
 
