@@ -22,4 +22,3 @@ Real-time data pipelines (WebSockets + Redis + cron) · LLM agents that generate
 ### Open to
 Full-stack TS, AI tooling, product-y side projects · chats on React Native, agent design, dev tooling
 
-Pinned repos below ↓
