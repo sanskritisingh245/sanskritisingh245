@@ -20,5 +20,5 @@ Full-stack developer building across web, mobile, and AI tooling. I like TypeScr
 Real-time data pipelines (WebSockets + Redis + cron) · LLM agents that generate UI · cross-platform mobile with Expo
 
 ### Open to
-Full-stack TS, AI tooling, product-y side projects · chats on React Native, agent design, dev tooling
+Full-stack TS, AI tooling, product-y side projects · chats on React Native and swift, agent design, dev tooling
 
